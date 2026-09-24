@@ -4,4 +4,4 @@ source: Local
 
 # Code
 
-> A merged slice of a GuestGraph service: its specification, plan and tasks under the engine's specs, and the code and tests that implement them, with every required check green.
+> A merged change to one of the repositories we publish, with its checks green, and where it changes what another repository vendors, the release that carries it.

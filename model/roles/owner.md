@@ -4,25 +4,27 @@ source: Local
 
 # Owner
 
-> The seat that decides what GuestGraph builds next, approves every gate, and is the only one that merges, tags and releases.
+> The seat that decides what the project is for, says the last word on every page, and is the only one that merges, tags and releases.
 
 ## What it takes
 
-A specification, plan, task list or pull request to approve, on the branch, whether it came from inside or from a contributor; a request raised from outside; the constitution and the roadmap notes a decision is weighed against; every question another seat has put to it.
+The model, read before deciding: the vision, the objectives and the strategies under them, and the values a decision is weighed against. A draft or a pull request to review, on the branch and on the rendered page. The signals a strategy names as showing whether it is working.
 
 ## What it produces
 
-Decisions recorded where they bind: an approved gate, an answer and its reason on a request, an answered question in a specification, a merge, a tag, a release and an amendment to the constitution with its rationale.
+Decisions, recorded where they bind: a merge, a tag, a release and its notes, a pin moved in a commit that says why, a corrected model. The reviewed English every translation is made from. The word that ends a question an agent has parked, and the word that closes a question the model has left open.
 
 ## What it never does
 
-- Never delegates a merge, a tag or a release.
-- Never approves a gate whose criteria are not met.
-- Never lets a non-negotiable principle be amended in passing inside a slice.
+- Never delegates a merge, a tag or a release; an agent opens the pull request and reports, the Owner merges.
+- Never approves an amendment to a principle the constitution marks non-negotiable in passing inside a change.
+- Never releases a change to what another repository vendors without notes saying what it asks of a consumer.
+- Never lets a published page outlive a disagreement with the model; the model is corrected and the page rebuilt from it.
+- Never states a number that was not counted or a claim the model does not hold.
 
 ## References
 
 | What | URL |
 | --- | --- |
-| Constitution | https://github.com/guestgraph/engine/blob/main/.specify/memory/constitution.md |
 | Working rules | https://github.com/robertblust/conventions/blob/main/conventions/WORKING.md |
+| Writing rules | https://github.com/robertblust/conventions/blob/main/conventions/WRITING.md |
