@@ -13,7 +13,7 @@ upholds:
 
 ## The approach
 
-Everything that resolves a guest is in public repositories under Apache 2.0, built spec-first in the open, so a hotel or an integrator can read exactly how a merge was decided before trusting one, and can run it without me. The commercial layer is planned on top of the core and never inside it: the core does not depend on commercial code, authentication beyond per-tenant API keys belongs to that layer, and the hosted service will run the same engine anyone can run. The talks and the pages say plainly that there is no product for sale yet and ask where the idea is wrong.
+Everything that resolves a guest is in public repositories under Apache 2.0, built spec-first in the open, so a hotel or an integrator can read exactly how a merge was decided before trusting one, and can run it without us. The commercial layer is planned on top of the core and never inside it: the core does not depend on commercial code, authentication beyond per-tenant API keys belongs to that layer, and the hosted service will run the same engine anyone can run. The talks and the pages say plainly that there is no product for sale yet and ask where the idea is wrong.
 
 ## What it rules out
 

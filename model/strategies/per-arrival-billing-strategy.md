@@ -13,7 +13,7 @@ upholds:
 
 ## The approach
 
-One meter: an arrival is one reservation that checked in, walk-ins included and cancellations and no-shows not, so a family of four is one arrival and four profiles, and a guest who returns next month is a new arrival. That number is already on a hotel's own occupancy report every morning, so every invoice can be checked against a system I do not own. Ingestion, the historical backfill, stored profiles, lookups and self-hosting cost nothing. The bill is an annual allowance paid in twelve equal installments, because hotels are seasonal; going over it never stops resolution; and a group pools one allowance across every property on one contract.
+One meter: an arrival is one reservation that checked in, walk-ins included and cancellations and no-shows not, so a family of four is one arrival and four profiles, and a guest who returns next month is a new arrival. That number is already on a hotel's own occupancy report every morning, so every invoice can be checked against a system we do not own. Ingestion, the historical backfill, stored profiles, lookups and self-hosting cost nothing. The bill is an annual allowance paid in twelve equal installments, because hotels are seasonal; going over it never stops resolution; and a group pools one allowance across every property on one contract.
 
 ## What it rules out
 
@@ -21,4 +21,4 @@ Pricing per record ingested, which would put the largest invoice at the backfill
 
 ## What would show it is working
 
-A hotel reading the billing model and being able to say what its bill would be from its own occupancy report, without asking me. Nobody holding back a system or an archive from the graph because of what it would cost. And, once there is a hosted service, invoices that nobody disputes because they match a number the hotel already trusts.
+A hotel reading the billing model and being able to say what its bill would be from its own occupancy report, without asking us. Nobody holding back a system or an archive from the graph because of what it would cost. And, once there is a hosted service, invoices that nobody disputes because they match a number the hotel already trusts.

@@ -4,7 +4,7 @@ source: Local
 
 # One guest, not five strangers
 
-> I am working toward hotels that know a returning guest as one person, whichever of their systems the guest passed through, from a profile they can ask why it believes what it does, and correct when it is wrong.
+> We are working toward hotels that know a returning guest as one person, whichever of their systems the guest passed through, from a profile they can ask why it believes what it does, and correct when it is wrong.
 
 ## What it means
 

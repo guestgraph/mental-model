@@ -10,4 +10,4 @@ source: Local
 
 A record enters as it arrived, its raw payload beside the fields extracted from it, and application code never changes or deletes it; a correction arrives as a new record. The golden profile is computed from the records by survivorship rules and can be recomputed at any time, which is what makes an explanation, an undo and a replay of resolution possible at all. Lawful erasure under data protection law is the one exception, and it is named as one.
 
-I never overwrite a source record to fix what a guest's profile says.
+We never overwrite a source record to fix what a guest's profile says.
