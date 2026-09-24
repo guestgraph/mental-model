@@ -5,36 +5,40 @@ owner: Owner
 
 # Delivery
 
-> How a slice of GuestGraph goes from the notes the roadmap keeps to merged, tested code: specified, planned, broken into tasks and implemented, each step approved before the next begins.
+> How anything we publish is shaped, specified, planned, made and merged, in code and in prose.
 
 ## Tracks
 
 | Track |
 | --- |
 | Code |
+| Prose |
 
 ## Phases
 
 | Phase |
 | --- |
-| Specify |
+| Shape |
+| Spec |
 | Plan |
-| Tasks |
 | Implement |
+| Integrate |
 
 ## What it never does
 
 - Never begins a phase whose predecessor's gate the Owner has not approved.
 - Never lets an agent merge, tag or release anything.
 - Never merges a change to the resolution engine without the scenario tests that were written for it first.
-- Never edits a merged specification; a correction goes forward into the roadmap notes or the document that owns the subject.
-- Never amends a principle the constitution marks non-negotiable, or the fixed stack or license, without the Owner's explicit approval.
-- Never restates in one repository a fact another repository owns; it links instead.
+- Never changes what another repository vendors without a release whose notes say what it asks of a consumer.
+- Never makes the German from English the Owner has not reviewed.
+- Never counts a check nobody ran as a check that passed.
+- Never lets a published page outlive a disagreement with the model; the model is corrected first and the page rebuilt from it.
 
 ## References
 
 | What | URL |
 | --- | --- |
-| Constitution | https://github.com/guestgraph/engine/blob/main/.specify/memory/constitution.md |
 | Working rules | https://github.com/robertblust/conventions/blob/main/conventions/WORKING.md |
-| Roadmap notes | https://github.com/guestgraph/engine/blob/main/docs/roadmap-notes.md |
+| Writing rules | https://github.com/robertblust/conventions/blob/main/conventions/WRITING.md |
+| Modeling rules | https://github.com/companygraph/meta-model/blob/main/core/CONVENTIONS.md |
+| Constitution | https://github.com/guestgraph/engine/blob/main/.specify/memory/constitution.md |

@@ -4,25 +4,28 @@ source: Local
 
 # Specifier
 
-> The seat that turns the roadmap notes for a slice into a specification with no open question in it, and builds nothing.
+> The seat that turns a shaped request into a specification nobody has to guess at, and builds nothing.
 
 ## What it takes
 
-The specifications and reference documents already merged, the roadmap notes for the slice and the constitution. Where the notes are ambiguous the seat asks before writing.
+A request already classified, the model and the constitution it must not contradict, and the code or the pages it will touch, read rather than remembered. Where the request is ambiguous the seat asks before writing.
 
 ## What it produces
 
-A specification of what the slice must do and why, its user stories and requirements, what is not in it and the Owner's answer to every question it raised.
+A specification that is the whole of the requirements: the gap it closes, the approaches considered with the one chosen and why, the decisions taken, and what is explicitly not being done. Where it reaches another repository, what its release will ask of a consumer. Where a decision is the Owner's, the seat names the options and parks the question.
 
 ## What it never does
 
-- Never writes the plan or the code.
-- Never answers a question that is the Owner's.
-- Never edits a merged specification.
+- Never writes the change it specifies.
+- Never decides scope; it names the options and the Owner chooses.
+- Never specifies a capability of the engine that is reachable other than through its API.
+- Never leaves a question unasked because an assumption would be convenient.
+- Never states a fact the model does not hold.
 
 ## References
 
 | What | URL |
 | --- | --- |
-| Rulebook, spec-kit, the specification | https://github.com/guestgraph/engine/blob/main/.claude/skills/speckit-specify/SKILL.md |
-| Rulebook, spec-kit, the open questions | https://github.com/guestgraph/engine/blob/main/.claude/skills/speckit-clarify/SKILL.md |
+| Working rules | https://github.com/robertblust/conventions/blob/main/conventions/WORKING.md |
+| Modeling rules | https://github.com/companygraph/meta-model/blob/main/core/CONVENTIONS.md |
+| Constitution | https://github.com/guestgraph/engine/blob/main/.specify/memory/constitution.md |
