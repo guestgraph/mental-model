@@ -16,8 +16,8 @@ model/                         the company — everything under here is an entit
   strategic-objectives/        what must become true for the vision to be reached
   strategies/                  how one gets reached, and what the route rules out
   roles/                       the seats its work is done from, each naming no holder
-  profiles/ai-agent/           the agent that holds every seat but the Owner's
-  processes/                   how a slice is delivered, phase by phase
+  profiles/ai-agent/           the agent, and the seats it holds
+  processes/                   each kind of work it does, phase by phase
   products/                    what it ships
   features/                    what each product lets someone do
   domains/                     the areas its vocabulary falls into
@@ -27,7 +27,7 @@ AGENTS.md                      this instance's own rules; every modeling rule is
 
 **No person is described here.** GuestGraph is built by the company of one the [reference instance](https://github.com/robertblust/mental-model) describes, and that is where the person is. The one profile this repository carries is an agent's; a `role` is a seat and names no holder, and a seat no profile names is held by a person.
 
-**No surface is recorded yet.** A surface is a place published from this model, and guestgraph.io is not: its pages are written from the services and the talks. The first one that reads this model adds its surface here.
+**No surface is recorded yet.** A surface is a place published from this model, and guestgraph.io is not: its pages are written from the services and the talks. The Answering process describes the chat that will answer from this model, the way companygraph.io's does from its own, and the chat and the server it reads add their surfaces here when they go live.
 
 The content is mastered here — `source: Local`, corrected in this repository and nowhere else — and what it says is drawn from prose that is already published: the organization profile on GitHub, the pages and the introduction talk of guestgraph.io, the READMEs of the engine and the connector, and the engine's constitution and reference documents. Nothing is invented, and a claim that cannot be traced to one of those does not go in.
 

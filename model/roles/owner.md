@@ -8,11 +8,11 @@ source: Local
 
 ## What it takes
 
-A specification, plan, task list or pull request to approve, on the branch; the constitution and the roadmap notes a decision is weighed against; every question another seat has put to it.
+A specification, plan, task list or pull request to approve, on the branch, whether it came from inside or from a contributor; a request raised from outside; the constitution and the roadmap notes a decision is weighed against; every question another seat has put to it.
 
 ## What it produces
 
-Decisions recorded where they bind: an approved gate, an answered question in a specification, a merge, a tag, a release and an amendment to the constitution with its rationale.
+Decisions recorded where they bind: an approved gate, an answer and its reason on a request, an answered question in a specification, a merge, a tag, a release and an amendment to the constitution with its rationale.
 
 ## What it never does
 

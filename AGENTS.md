@@ -33,7 +33,7 @@ Entries are written and reviewed one at a time — what it says, the case agains
 
 **No person is described here.** No `skill`, `experience` or `proficiency-level` is written in this repository, and the one profile it carries is an agent, by decision and not for the moment. GuestGraph is built by the company of one that `robertblust/mental-model` describes, and that is where the person is described; a profile for a person here would put one canonical name in two instances with two sets of facts behind it, and the second set would go stale without a sound. A `role` is a seat and names no holder. What a seat is held by is said once, by the agent profile listing the seats an agent holds: a seat no profile names is held by a person, and which person is a fact this repository does not carry.
 
-**No surface is recorded.** A surface is a place published from this model, and nothing is yet: guestgraph.io is written from the services and the talks, not from `model/`. The first page or server that reads this model adds its surface in the same change.
+**No surface is recorded.** A surface is a place published from this model, and nothing is yet: guestgraph.io is written from the services and the talks, not from `model/`. The Answering process is written for the chat that will answer from this model; the chat and the MCP server it reads add their surfaces in the change that makes them live, and not before.
 
 **No count, threshold or version of the services is written here.** The engine's reference documents are the single place a matching value is defined, and the organization profile is the one place that says which phases have shipped; an entry that needs either says what it is and leaves the value where it lives.
 
