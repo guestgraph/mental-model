@@ -22,11 +22,12 @@ url: https://guestgraph.io
 - **Privacy** — what leaves a visitor's browser and what stays in it, listed in full, and how the hosted service will treat guest data.
 - **Problems** — what each refusal type a GuestGraph service answers means, and what to do about it.
 - **model.json** — this model parsed at the commit the site pins, published as a dataset.
+- **Chat** — the button at the foot of every prose page and the panel it opens, answered by the chat.guestgraph.io chat.
 - **Structured data** — the organization, the website and the dataset each page describes to a crawler.
 
 ## Constraints
 
-- The site collects nothing: no page sets a cookie, no page loads an analytics script, and nothing counts a visit.
+- The site collects nothing: no page sets a cookie, no page loads an analytics script, and nothing counts a visit; the one request a page makes to another address is the chat's, and only after the visitor has pressed send.
 - Every page drawn from the model names the repository and the commit it was parsed from, on the page.
 - A page drawn from the model is rebuilt from `model.json`, and the build fails when that file is not what the pinned commit parses to.
 - Both languages carry the same claims: a page's German is a translation of its reviewed English, never a second text.
