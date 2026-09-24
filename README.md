@@ -28,7 +28,7 @@ AGENTS.md                      this instance's own rules; every modeling rule is
 
 **No person is described here.** GuestGraph is built by the company of one the [reference instance](https://github.com/robertblust/mental-model) describes, and that is where the person is. The one profile this repository carries is an agent's; a `role` is a seat and names no holder, and a seat no profile names is held by a person.
 
-**Three surfaces are recorded, and guestgraph.io is not one.** The MCP server at mcp.guestgraph.io, its MCP Registry listing and the chat at chat.guestgraph.io are built from this model by `guestgraph/mcp-guestgraph-io`. guestgraph.io's pages are written from the services and the talks, so the site is not a surface, though its chat panel answers from this model.
+**guestgraph.io is a surface, and so are the MCP server and the chat.** guestgraph.io, built by `guestgraph/guestgraph.github.io`, draws its Model, Team, Principles and Surfaces pages from a pinned commit of this repository. The MCP server at mcp.guestgraph.io, its MCP Registry listing and the chat at chat.guestgraph.io are built from it by `guestgraph/mcp-guestgraph-io`.
 
 The content is mastered here — `source: Local`, corrected in this repository and nowhere else — and what it says is drawn from prose that is already published: the organization profile on GitHub, the pages and the introduction talk of guestgraph.io, the READMEs of the engine and the connector, and the engine's constitution and reference documents. Nothing is invented, and a claim that cannot be traced to one of those does not go in.
 
