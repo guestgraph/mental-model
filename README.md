@@ -18,6 +18,7 @@ model/                         the company — everything under here is an entit
   surfaces/                    one file per place the model is published
   roles/                       the seats its work is done from, each naming no holder
   profiles/ai-agent/           the agent, and the seats it holds
+  profiles/*-voice/            the agents that speak the talk, one per language
   processes/                   each kind of work it does, phase by phase
   products/                    what it ships
   features/                    what each product lets someone do
