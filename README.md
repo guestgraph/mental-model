@@ -15,6 +15,7 @@ model/                         the company — everything under here is an entit
   values/                      what it will and will not do
   strategic-objectives/        what must become true for the vision to be reached
   strategies/                  how one gets reached, and what the route rules out
+  surfaces/                    one file per place the model is published
   roles/                       the seats its work is done from, each naming no holder
   profiles/ai-agent/           the agent, and the seats it holds
   processes/                   each kind of work it does, phase by phase
@@ -27,7 +28,7 @@ AGENTS.md                      this instance's own rules; every modeling rule is
 
 **No person is described here.** GuestGraph is built by the company of one the [reference instance](https://github.com/robertblust/mental-model) describes, and that is where the person is. The one profile this repository carries is an agent's; a `role` is a seat and names no holder, and a seat no profile names is held by a person.
 
-**No surface is recorded yet.** A surface is a place published from this model, and guestgraph.io is not: its pages are written from the services and the talks. The Answering process describes the chat that will answer from this model, the way companygraph.io's does from its own, and the chat and the server it reads add their surfaces here when they go live.
+**Three surfaces are recorded, and guestgraph.io is not one.** The MCP server at mcp.guestgraph.io, its MCP Registry listing and the chat at chat.guestgraph.io are built from this model by `guestgraph/mcp-guestgraph-io`. guestgraph.io's pages are written from the services and the talks, so the site is not a surface, though its chat panel answers from this model.
 
 The content is mastered here — `source: Local`, corrected in this repository and nowhere else — and what it says is drawn from prose that is already published: the organization profile on GitHub, the pages and the introduction talk of guestgraph.io, the READMEs of the engine and the connector, and the engine's constitution and reference documents. Nothing is invented, and a claim that cannot be traced to one of those does not go in.
 
