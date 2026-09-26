@@ -1,5 +1,6 @@
 ---
 source: Local
+kind: Data and privacy
 ---
 
 # Are guests kept apart between our hotels or brands?

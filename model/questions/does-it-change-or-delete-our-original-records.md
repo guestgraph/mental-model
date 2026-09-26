@@ -1,5 +1,6 @@
 ---
 source: Local
+kind: Data and privacy
 ---
 
 # Does it change or delete our original records?

@@ -1,5 +1,6 @@
 ---
 source: Local
+kind: The problem
 ---
 
 # Can we see everything a guest has booked, in one place?

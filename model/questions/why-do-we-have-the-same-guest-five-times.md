@@ -1,5 +1,6 @@
 ---
 source: Local
+kind: The problem
 ---
 
 # Why do we have the same guest five times?

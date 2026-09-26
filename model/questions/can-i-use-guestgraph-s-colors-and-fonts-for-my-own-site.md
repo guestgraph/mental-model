@@ -1,5 +1,6 @@
 ---
 source: Local
+kind: Brand and chat
 ---
 
 # Can I use GuestGraph's colors and fonts for my own site?

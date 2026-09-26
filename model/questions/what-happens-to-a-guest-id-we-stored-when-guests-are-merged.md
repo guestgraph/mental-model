@@ -1,5 +1,6 @@
 ---
 source: Local
+kind: Matching
 ---
 
 # What happens to a guest id we stored when guests are merged?

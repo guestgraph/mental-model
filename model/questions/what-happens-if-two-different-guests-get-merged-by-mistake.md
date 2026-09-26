@@ -1,5 +1,6 @@
 ---
 source: Local
+kind: Matching
 ---
 
 # What happens if two different guests get merged by mistake?

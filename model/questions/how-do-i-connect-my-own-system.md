@@ -1,5 +1,6 @@
 ---
 source: Local
+kind: Connecting
 ---
 
 # How do I connect my own system?

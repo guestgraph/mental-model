@@ -1,5 +1,6 @@
 ---
 source: Local
+kind: Terms
 ---
 
 # Is GuestGraph a business, or an open-source project?
