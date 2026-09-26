@@ -39,7 +39,7 @@ The mark is three lines resolving into one dot, the records every system in a ho
 | Trait | Means | Never |
 | --- | --- | --- |
 | Plain | We say what happens to a guest's record in the words the front desk uses for it | An adjective that sells: nothing here is seamless, intelligent or robust |
-| Shown | We claim what a merge can show, and every merge shows why it was made | A match presented as certain |
+| Shown | We claim what a merge can show, and every merge shows why it was made | A match presented as certain, or a count that still moves |
 | Cause first | We say why a record is matched before we say how the score was reached | A score with no reason beside it |
 | Reversible | We say how a decision is undone in the sentence that says how it is made | An action described without its way back |
 | Read twice | We would rather be read twice than skimmed once: one idea per sentence, the point in the first | A header that segments a text which fits on a screen |
