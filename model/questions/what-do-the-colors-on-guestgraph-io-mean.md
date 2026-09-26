@@ -1,5 +1,6 @@
 ---
 source: Local
+kind: Brand and chat
 ---
 
 # What do the colors on guestgraph.io mean?

@@ -1,5 +1,6 @@
 ---
 source: Local
+kind: Terms
 ---
 
 # Can we run GuestGraph ourselves, and what does it cost?

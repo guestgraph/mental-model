@@ -1,5 +1,6 @@
 ---
 source: Local
+kind: Matching
 ---
 
 # Can I see why it thinks two records are the same person?

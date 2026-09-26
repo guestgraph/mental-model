@@ -1,5 +1,6 @@
 ---
 source: Local
+kind: Data and privacy
 ---
 
 # What about GDPR and our guests' privacy?

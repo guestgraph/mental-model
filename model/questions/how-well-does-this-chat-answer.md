@@ -1,5 +1,6 @@
 ---
 source: Local
+kind: Brand and chat
 ---
 
 # How well does this chat answer?

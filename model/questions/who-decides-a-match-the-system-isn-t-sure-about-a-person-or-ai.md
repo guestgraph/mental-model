@@ -1,5 +1,6 @@
 ---
 source: Local
+kind: Matching
 ---
 
 # Who decides a match the system isn't sure about, a person or AI?

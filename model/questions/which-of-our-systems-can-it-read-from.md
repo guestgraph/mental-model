@@ -1,5 +1,6 @@
 ---
 source: Local
+kind: Connecting
 ---
 
 # Which of our systems can it read from?
