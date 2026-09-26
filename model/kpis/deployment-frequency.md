@@ -14,9 +14,9 @@ read-with:
 
 ## How it is measured
 
-A deployment is a merge to `main` in a repository whose workflows publish one of this model's surfaces: the guestgraph.io website, which GitHub Pages publishes, and the mcp.guestgraph.io MCP server and the chat.guestgraph.io chat, which that repository's deploy and chat workflows publish. A merge counts once, however many of its workflows publish. The MCP Registry listing, republished when the MCP server's repository tags a release, is not a deployment. A release of the connector or of the service conventions is not a deployment while nothing in production runs one.
+A deployment is a merge to `main` in a repository whose workflows publish one of this model's surfaces: the guestgraph.io website, which GitHub Pages publishes, and the mcp.guestgraph.io MCP server and the chat.guestgraph.io chat, which that repository's deploy and chat workflows publish. A merge counts once, however many of its workflows publish. The MCP Registry listing, republished when the MCP server's repository tags a release, is not a deployment. A release of the Apaleo Connector or of the shared conventions each service vendors into its build is not a deployment while nothing in production runs one.
 
-The number of deployments in a calendar week. A workflow run that failed and published nothing is not a deployment.
+The number of deployments in an ISO week, Monday midnight UTC to the next. Deployments and their times are read from the merges to `main` in the GitHub history of guestgraph/guestgraph.github.io and guestgraph/mcp-guestgraph-io; their publishing runs are GitHub Pages' own `pages-build-deployment` runs for the site and mcp-guestgraph-io's `deploy` and `chat` workflow runs on `main`. A workflow run that failed and published nothing is not a deployment.
 
 ## What it can hide
 
