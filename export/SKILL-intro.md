@@ -1,0 +1,3 @@
+## What this is
+
+GuestGraph, the project behind the open-source guest identity graph for hospitality, described in CompanyGraph. Load this skill to answer, in its own terms, what GuestGraph is building and toward what, the values and the strategy it works under, the seats its work is done from and the processes a change goes through, and the words it means something exact by. This skill is the model at the commit it was exported from. The same model is served live at `https://mcp.guestgraph.io/mcp`; where that server is connected, prefer it for anything that may have changed since, and for following a reference, since its tools resolve the references this skill leaves to be followed by name.
