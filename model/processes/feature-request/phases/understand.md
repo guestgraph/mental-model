@@ -45,4 +45,10 @@ To leave Understand, all of these hold:
 - The request names the system, the operation or the decision that was missing.
 - Whoever raised it has seen the restatement and not disputed it.
 
-Where they cannot be met, the Owner says so in the issue and closes it as not understood, which is an answer and is not a refusal.
+## If not met
+
+| Outcome | Leads to |
+| --- | --- |
+| closed as not understood | |
+
+The Owner says so in the issue; not understood is an answer, and is not a refusal.
