@@ -1,6 +1,6 @@
 ---
 source: Local
-email: robert@blust.ch
+email: info@guestgraph.io
 url: https://guestgraph.io
 ---
 
