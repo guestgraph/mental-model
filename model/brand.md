@@ -48,6 +48,7 @@ The mark is three lines resolving into one dot, the records every system in a ho
 
 | What | URL |
 | --- | --- |
+| Design system | https://github.com/robertblust/design/tree/main/docs/design-system |
 | Design tokens | https://github.com/robertblust/design/blob/main/blocks/tokens.css |
 | Mark | https://github.com/guestgraph/guestgraph.github.io/blob/main/favicon.svg |
 | Rulebook of the voice | https://github.com/robertblust/conventions/blob/main/conventions/WRITING.md |
