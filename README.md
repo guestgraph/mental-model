@@ -30,7 +30,7 @@ model/                         the company — everything under here is an entit
 AGENTS.md                      this instance's own rules; every modeling rule is in meta/core/CONVENTIONS.md
 ```
 
-**No person is described here.** GuestGraph is built by the company of one the [reference instance](https://github.com/robertblust/mental-model) describes, and that is where the person is. The one profile this repository carries is an agent's; a `role` is a seat and names no holder, and a seat no profile names is held by a person.
+**One person, thinly.** The person behind GuestGraph is described in the [reference instance](https://github.com/robertblust/mental-model). The profile here says only what this repository needs: the address the Owner's commits are authored under, the seat, and where the rest is. No `skill`, `experience` or `proficiency-level` is written here, because a second set of facts under one canonical name would go stale without a sound. A `role` is a seat and names no holder; what holds one is said by the profile that lists it.
 
 **guestgraph.io is a surface, and so are the MCP server and the chat.** guestgraph.io, built by `guestgraph/guestgraph.github.io`, draws its Model, Team, Principles and Surfaces pages from a pinned commit of this repository. The MCP server at mcp.guestgraph.io, its MCP Registry listing and the chat at chat.guestgraph.io are built from it by `guestgraph/mcp-guestgraph-io`.
 
