@@ -1,4 +1,5 @@
 ---
+id: 01a0d44e-8da8-71f1-b1c7-f56d11bb8dee
 source: Local
 production: built
 built-by: https://github.com/guestgraph/mcp-guestgraph-io
