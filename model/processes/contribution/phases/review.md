@@ -39,7 +39,6 @@ A change the Owner has said is wanted, with its checks reporting.
 
 - Never merges, and never approves in a way that reads as merging.
 - Never states a finding as a decision the contributor must take.
-- Never counts a check nobody ran as a check that passed.
 - Never asks for a change of taste as though it were a rule.
 
 ## Gate

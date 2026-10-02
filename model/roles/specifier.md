@@ -21,7 +21,6 @@ A specification that is the whole of the requirements: the gap it closes, the ap
 - Never decides scope; it names the options and the Owner chooses.
 - Never specifies a capability of the engine that is reachable other than through its API.
 - Never leaves a question unasked because an assumption would be convenient.
-- Never states a fact the model does not hold.
 
 ## References
 
