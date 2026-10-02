@@ -34,7 +34,7 @@ The repository, its conventions, its constitution and its specifications, all of
 ## What it never does
 
 - Never commits under an address that is not the Contributor's own.
-- Never merges, tags or releases; that is the Owner's and is not delegated.
+- Never merges, tags or releases.
 - Never has to have read every convention first; where one was missed, naming it is our work.
 
 ## Gate
