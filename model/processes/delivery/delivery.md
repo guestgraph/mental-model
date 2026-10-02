@@ -28,8 +28,6 @@ owner: Owner
 ## What it never does
 
 - Never begins a phase whose predecessor's gate the Owner has not approved.
-- Never merges a change to the resolution engine without the scenario tests that were written for it first.
-- Never changes what another repository vendors without a release whose notes say what it asks of a consumer.
 
 ## References
 

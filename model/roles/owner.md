@@ -18,7 +18,6 @@ Decisions, recorded where they bind: a merge, a tag, a release and its notes, a 
 ## What it never does
 
 - Never approves an amendment to a principle the constitution marks non-negotiable in passing inside a change.
-- Never releases a change to what another repository vendors without notes saying what it asks of a consumer.
 
 ## References
 
