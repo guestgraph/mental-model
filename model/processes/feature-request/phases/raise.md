@@ -33,7 +33,6 @@ Whatever the Requestor was trying to do and could not, in whatever words they ha
 ## What it never does
 
 - Never has to be written in our terms; putting it in them is our work.
-- Never has to name the hotel it asks for, or carry a guest's data.
 - Never waits for a template, a label or a form; there is none, by design.
 
 ## Gate

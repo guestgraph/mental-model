@@ -31,7 +31,6 @@ supported-by:
 - Never promises a date, a release or a place on the roadmap.
 - Never closes a request without the reason written where it was asked.
 - Never builds something because it was asked for; a request is evidence for the roadmap notes and never the decision to build.
-- Never asks which hotel a request comes from, and never asks for a guest's data to illustrate one.
 
 ## References
 

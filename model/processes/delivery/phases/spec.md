@@ -50,7 +50,6 @@ A classified request, the model and the constitution the change must not contrad
 - Never writes the change it specifies.
 - Never decides a question that is the Owner's; it names the options and parks it.
 - Never specifies a capability of the engine that is reachable other than through its API.
-- Never states a fact the model does not hold, or one no published page shows.
 - Never leaves a question unasked because an assumption would be convenient.
 
 ## Gate
