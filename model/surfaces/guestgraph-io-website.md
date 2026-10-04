@@ -20,7 +20,7 @@ url: https://guestgraph.io
 - **Model** — this model, drawn as a graph from `model.json`, with each entity's card.
 - **Talks** — the introduction talk, narrated in both languages with a PDF, and the questions it ends on.
 - **Billing** — the one meter the hosted service would bill on, what is free and stays so, and the ways to charge that were refused and why.
-- **Privacy** — what leaves a visitor's browser and what stays in it, listed in full, and how the hosted service will treat guest data.
+- **Privacy** — what leaves a visitor's browser and what stays in it, listed in full from the model's data processors, processing activities and stored items, and how the hosted service will treat guest data.
 - **Problems** — what each refusal type a GuestGraph service answers means, and what to do about it.
 - **model.json** — this model parsed at the commit the site pins, published as a dataset.
 - **Chat** — the button at the foot of every prose page and the panel it opens, answered by the chat.guestgraph.io chat.
