@@ -13,7 +13,7 @@ url: https://guestgraph.io
 ## What it shows
 
 - **Landing** — the problem in one line, five strangers and one guest, with the way into the introduction talk and the code.
-- **Team** — each process's phases as a board of the roles that own, execute, support and approve each, and the profiles that hold those roles, drawn from `model.json`.
+- **Team** — each process's phases as a board of the seats that own, execute, support and approve each, and the profiles that hold those seats, drawn from `model.json`.
 - **Principles** — the vision and the values, drawn from `model.json`.
 - **Surfaces** — every surface the model records, with how each is made and what makes it, and nothing kept beside the model, drawn from `model.json`.
 - **API** — the engine's and the connector's operations, generated from their OpenAPI documents at the commits the site pins.

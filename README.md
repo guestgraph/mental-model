@@ -17,7 +17,7 @@ model/                         the company — everything under here is an entit
   strategic-objectives/        what must become true for the vision to be reached
   strategies/                  how one gets reached, and what the route rules out
   surfaces/                    one file per place the model is published
-  roles/                       the seats its work is done from, each naming no holder
+  seats/                       the seats its work is done from, each naming no holder
   profiles/ai-agent/           the agent, and the seats it holds
   profiles/*-voice/            the agents that speak the talk, one per language
   processes/                   each kind of work it does, phase by phase
@@ -30,7 +30,7 @@ model/                         the company — everything under here is an entit
 AGENTS.md                      this instance's own rules; every modeling rule is in meta/core/CONVENTIONS.md
 ```
 
-**One person, thinly.** The person behind GuestGraph is described in the [reference instance](https://github.com/robertblust/mental-model). The profile here says only what this repository needs: the address the Owner's commits are authored under, the seat, and where the rest is. No `skill`, `experience` or `proficiency-level` is written here, because a second set of facts under one canonical name would go stale without a sound. A `role` is a seat and names no holder; what holds one is said by the profile that lists it.
+**One person, thinly.** The person behind GuestGraph is described in the [reference instance](https://github.com/robertblust/mental-model). The profile here says only what this repository needs: the address the Owner's commits are authored under, the seat, and where the rest is. No `skill`, `experience` or `proficiency-level` is written here, because a second set of facts under one canonical name would go stale without a sound. A seat names no holder; what holds one is said by the profile that lists it.
 
 **guestgraph.io is a surface, and so are the MCP server and the chat.** guestgraph.io, built by `guestgraph/guestgraph.github.io`, draws its Model, Team, Principles and Surfaces pages from a pinned commit of this repository. The MCP server at mcp.guestgraph.io, its MCP Registry listing and the chat at chat.guestgraph.io are built from it by `guestgraph/mcp-guestgraph-io`.
 
