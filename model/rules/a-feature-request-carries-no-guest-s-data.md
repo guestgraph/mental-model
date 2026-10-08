@@ -16,5 +16,5 @@ A request is a public GitHub issue, and a guest's data in it would be published 
 
 | Type | Entity | Owner |
 | --- | --- | --- |
-| role | Requestor | |
+| seat | Requestor | |
 | process | Feature request | |

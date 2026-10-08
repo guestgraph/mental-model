@@ -2,7 +2,7 @@
 id: 01a0d2e3-bec0-77d7-806c-b590119da768
 source: Local
 nature: agent
-roles:
+seats:
   - Specifier
   - Planner
   - Controller

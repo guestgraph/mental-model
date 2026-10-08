@@ -16,5 +16,5 @@ A request is worth what it says about what somebody could not do, and that is th
 
 | Type | Entity | Owner |
 | --- | --- | --- |
-| role | Requestor | |
+| seat | Requestor | |
 | process | Feature request | |
