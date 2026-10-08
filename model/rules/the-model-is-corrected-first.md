@@ -16,6 +16,6 @@ guestgraph.io, the MCP server and the chat draw what they say about us from a pi
 
 | Type | Entity | Owner |
 | --- | --- | --- |
-| role | Owner | |
+| seat | Owner | |
 | process | Delivery | |
 | phase | Integrate | Delivery |

@@ -16,7 +16,7 @@ Each of our services vendors what they share at the release it pins, held to tha
 
 | Type | Entity | Owner |
 | --- | --- | --- |
-| role | Owner | |
+| seat | Owner | |
 | process | Delivery | |
 | phase | Integrate | Delivery |
 | phase | Integrate | Contribution |
