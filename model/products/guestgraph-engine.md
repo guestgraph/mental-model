@@ -2,6 +2,7 @@
 id: 01a0d2e3-bec0-71a1-88ca-2b85827bd967
 source: Local
 domain: Guest identity
+kind: Service
 ---
 
 # GuestGraph Engine
