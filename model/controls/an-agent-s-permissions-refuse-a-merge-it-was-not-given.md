@@ -13,7 +13,7 @@ enforces:
 
 ## How it is carried out
 
-Claude Code's permission layer, before the agent's command runs: it judges the action against the conversation, and a merge without a review it can see is refused, so the agent stops and the merge waits for the Owner.
+The agent harness's permission layer, before the agent's command runs: it judges the action against the conversation, and a merge without a review it can see is refused, so the agent stops and the merge waits for the Owner.
 
 ## Applies to
 
@@ -28,4 +28,4 @@ Claude Code's permission layer, before the agent's command runs: it judges the a
 
 | What | URL |
 | --- | --- |
-| Claude Code permission modes | https://code.claude.com/docs/en/permission-modes |
+| The agent harness's permission modes | https://code.claude.com/docs/en/permission-modes |
